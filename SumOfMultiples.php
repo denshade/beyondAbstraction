@@ -6,16 +6,16 @@
  */
 class SumOfMultiples
 {
+    const BEGIN = 1;
+    const END   = 1000;
     public function calculate()
     {
         $sum = 0;
-        for ($current = 1; $current < 1000; $current++ )
+        for ($current = self::BEGIN; $current < self::END; $current++ )
         {
             if ($current % 3 == 0 || $current % 5 == 0)
             {
                 $sum += $current;
-                echo $current. "\n";
-
             }
         }
         return $sum;
