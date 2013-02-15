@@ -4,13 +4,12 @@
  * Date: 15/02/13
  * Time: 21:02
  */
-class FiveFoldFilter implements MultipleFilter
+class FiveFoldFilter extends  NumberFoldFilter
 {
 
-    public function filter($number)
+
+    public function __construct()
     {
-        if ($number % 5 == 0)
-            return true;
-        return false;
+        $this->base= 5;
     }
 }
