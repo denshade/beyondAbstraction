@@ -14,7 +14,8 @@ class SumOfMultiples
     public function calculate()
     {
         $sum = 0;
-        for ($current = 1; $current < 1000; $current++ )
+        $iterator = new NumberIterator();
+        foreach( $iterator as $key => $current)
         {
             $addIt = false;
             foreach($this->filters as $filter)
