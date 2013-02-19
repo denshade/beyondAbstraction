@@ -1,6 +1,14 @@
 <?php
 
-require_once("SumOfMultiples.php");
+function __autoload($class_name) {
+    include $class_name . '.php';
+}
 
 $sum = new SumOfMultiples();
-echo $sum->calculate();
+if ($sum->calculate() ==233168)
+{
+    echo "SUCCESS";
+}else
+{
+    echo "FAIL";
+}

@@ -1,27 +1,38 @@
 <?php
 /**
- * User: lieven
+ * User: denshade
  * Date: 12/02/13
  * Time: 13:18
  */
 class SumOfMultiples
 {
-    const BEGIN = 1;
-    const END   = 1000;
-
-    const THREE = 3;
-    const FIVE  = 5;
-
+    private $filters;
+    public function __construct()
+    {
+        $this->filters = array(new ThreeFoldFilter(), new FiveFoldFilter());
+    }
     public function calculate()
     {
-        $sum = 0;
-        for ($current = self::BEGIN; $current < self::END; $current++ )
+        $iterator = new NumberIterator();
+        $listener = new SolutionListener();
+        foreach( $iterator as $key => $current)
         {
-            if ($current % self::THREE == 0 || $current % self::FIVE == 0)
+            $addIt = false;
+            foreach($this->filters as $filter)
             {
-                $sum += $current;
+                /**
+                 * @var MultipleFilter $filter
+                 */
+                if ($filter->filter($current))
+                {
+                    $addIt = true;
+                }
+            }
+            if($addIt)
+            {
+                $listener->listen($current);
             }
         }
-        return $sum;
+        return $listener->getCurrentResult();
     }
 }
