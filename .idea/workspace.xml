@@ -2,29 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b47db08-caec-47e1-84ff-cc57995f17d6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Filter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FiveFoldFilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Listener.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MultipleFilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NumberFoldFilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NumberIterator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SolutionListener.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThreeFoldFilter.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SumOfMultiples.php" afterPath="$PROJECT_DIR$/SumOfMultiples.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run.php" afterPath="$PROJECT_DIR$/run.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="beyondAbstraction.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="1b47db08-caec-47e1-84ff-cc57995f17d6" time="1361275987750" ignored="false" />
-    <file path="/SolutionListener.php" changelist="1b47db08-caec-47e1-84ff-cc57995f17d6" time="1361276893013" ignored="false" />
-    <file path="/SumOfMultiples.php" changelist="1b47db08-caec-47e1-84ff-cc57995f17d6" time="1361276873011" ignored="false" />
-    <file path="/Listener.php" changelist="1b47db08-caec-47e1-84ff-cc57995f17d6" time="1361276923453" ignored="false" />
-    <file path="/Filt.php" changelist="1b47db08-caec-47e1-84ff-cc57995f17d6" time="1361276956613" ignored="false" />
-    <file path="/a.dummy" changelist="1b47db08-caec-47e1-84ff-cc57995f17d6" time="1361277014226" ignored="false" />
     <file path="/NumberFoldFilter.php" changelist="1b47db08-caec-47e1-84ff-cc57995f17d6" time="1361277305229" ignored="false" />
+    <file path="/a.dummy" changelist="1b47db08-caec-47e1-84ff-cc57995f17d6" time="1361277014226" ignored="false" />
+    <file path="/Filt.php" changelist="1b47db08-caec-47e1-84ff-cc57995f17d6" time="1361276956613" ignored="false" />
+    <file path="/Listener.php" changelist="1b47db08-caec-47e1-84ff-cc57995f17d6" time="1361276923453" ignored="false" />
+    <file path="/SumOfMultiples.php" changelist="1b47db08-caec-47e1-84ff-cc57995f17d6" time="1361276873011" ignored="false" />
+    <file path="/SolutionListener.php" changelist="1b47db08-caec-47e1-84ff-cc57995f17d6" time="1361276893013" ignored="false" />
+    <file path="/Dummy.txt" changelist="1b47db08-caec-47e1-84ff-cc57995f17d6" time="1361275987750" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,98 +31,7 @@
     <favorites_list name="beyondAbstraction" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="SumOfMultiples.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SumOfMultiples.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="19" selection-start="590" selection-end="590" vertical-scroll-proportion="-9.625">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NumberIterator.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NumberIterator.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="71" column="5" selection-start="1724" selection-end="1724" vertical-scroll-proportion="-24.666666">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ThreeFoldFilter.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ThreeFoldFilter.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="41" selection-start="100" selection-end="100" vertical-scroll-proportion="-3.75">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FiveFoldFilter.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FiveFoldFilter.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="21" selection-start="171" selection-end="172" vertical-scroll-proportion="-7.5">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SolutionListener.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SolutionListener.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="31" selection-start="193" selection-end="193" vertical-scroll-proportion="-6.875">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Listener.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Listener.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="32" selection-start="60" selection-end="60" vertical-scroll-proportion="-1.875">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NumberFoldFilter.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NumberFoldFilter.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="35" selection-start="181" selection-end="212" vertical-scroll-proportion="-6.875">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Filter.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Filter.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="1" selection-start="64" selection-end="64" vertical-scroll-proportion="-2.5">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MultipleFilter.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MultipleFilter.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="24" selection-start="83" selection-end="83" vertical-scroll-proportion="-3.75">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="run.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/run.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="5" selection-start="167" selection-end="167" vertical-scroll-proportion="0.34013605">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -143,11 +40,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GitLogSettings">
-    <option name="myDateState">
-      <MyDateState />
-    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
@@ -166,9 +58,10 @@
       </list>
     </option>
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="Unnamed" />
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="php 5.4.11" />
   <component name="ProjectFrameBounds">
-    <option name="y" value="22" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
     <option name="width" value="1458" />
     <option name="height" value="882" />
   </component>
@@ -198,7 +91,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -219,6 +111,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -287,18 +180,18 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1458" height="882" extended-state="0" />
-    <editor active="true" />
+    <frame x="-9" y="-9" width="1458" height="882" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26062322" sideWeight="0.31937173" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2647059" sideWeight="0.21237694" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26062322" sideWeight="0.34554973" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2647059" sideWeight="0.4556962" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32460734" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32208157" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -342,10 +235,6 @@
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
     <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
-    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
-    <option name="LIMIT_HISTORY" value="true" />
-    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
-    <option name="UPDATE_FILTER_SCOPE_NAME" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
     <option name="LAST_COMMIT_MESSAGE" />
@@ -408,72 +297,72 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NumberIterator.php">
+    <entry file="file://$PROJECT_DIR$/Listener.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="71" column="5" selection-start="1724" selection-end="1724" vertical-scroll-proportion="-24.666666">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FiveFoldFilter.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="21" selection-start="171" selection-end="172" vertical-scroll-proportion="-7.5">
+        <state line="3" column="32" selection-start="60" selection-end="60" vertical-scroll-proportion="-1.9615384">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SumOfMultiples.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="19" selection-start="590" selection-end="590" vertical-scroll-proportion="-9.625">
+        <state line="38" column="0" selection-start="883" selection-end="883" vertical-scroll-proportion="-14.346154">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Listener.php">
+    <entry file="file://$PROJECT_DIR$/FiveFoldFilter.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="32" selection-start="60" selection-end="60" vertical-scroll-proportion="-1.875">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ThreeFoldFilter.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="41" selection-start="100" selection-end="100" vertical-scroll-proportion="-3.75">
+        <state line="12" column="21" selection-start="171" selection-end="172" vertical-scroll-proportion="-7.8461537">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SolutionListener.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="31" selection-start="193" selection-end="193" vertical-scroll-proportion="-6.875">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MultipleFilter.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="24" selection-start="83" selection-end="83" vertical-scroll-proportion="-3.75">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NumberFoldFilter.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="35" selection-start="181" selection-end="212" vertical-scroll-proportion="-6.875">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Filter.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="1" selection-start="64" selection-end="64" vertical-scroll-proportion="-2.5">
+        <state line="11" column="31" selection-start="193" selection-end="193" vertical-scroll-proportion="-5.8461537">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/run.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="5" selection-start="167" selection-end="167" vertical-scroll-proportion="0.34013605">
+        <state line="6" column="22" selection-start="101" selection-end="101" vertical-scroll-proportion="0.23776224">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Filter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="1" selection-start="64" selection-end="64" vertical-scroll-proportion="0.15850815">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MultipleFilter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="24" selection-start="83" selection-end="83" vertical-scroll-proportion="0.23776224">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NumberIterator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="71" column="5" selection-start="1724" selection-end="1724" vertical-scroll-proportion="0.6829837">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThreeFoldFilter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="41" selection-start="100" selection-end="100" vertical-scroll-proportion="0.23776224">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NumberFoldFilter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="35" selection-start="181" selection-end="212" vertical-scroll-proportion="0.43589744">
           <folding />
         </state>
       </provider>
